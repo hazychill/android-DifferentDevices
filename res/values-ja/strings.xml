@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">様々なデバイス</string>
+    <string name="hello_world">はろーわーるど</string>
+    <string name="menu_settings">設定</string>
+    <string name="layoutSpec_portrait_notlarge">縦長、小さい</string>
+    <string name="layoutSpec_portrait_large">縦長、大きい</string>
+    <string name="layoutSpec_landscape_notlarge">横長、小さい</string>
+    <string name="layoutSpec_landscape_large">横長、大きい</string>
+    <string name="drawableSpec_description">drawable種別</string>
+</resources>
